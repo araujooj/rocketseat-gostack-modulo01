@@ -12,7 +12,7 @@
 <blockquote align="center">"Muito a aprender você ainda tem. - Mestre Yoda”</blockquote>
 
 <blockquote align="center">
-  <a href="#rocket-sobre-o-projeto">Sobre o módulo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-modulo">Sobre o módulo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#conceitos-abordados">Conceitos abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tutorial">Tutorial</a>
 </blockquote>
